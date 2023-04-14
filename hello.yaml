@@ -1,1 +1,5 @@
 hello: "world"
+
+# just for test, ignore
+env: "prod"
+addr: "http://127.0.0.1"
