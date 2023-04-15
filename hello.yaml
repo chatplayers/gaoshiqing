@@ -5,3 +5,6 @@ env: "prod"
 addr: "http://127.0.0.1"
 
 name: "oauth"
+
+# test switch
+switch: true
